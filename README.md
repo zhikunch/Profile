@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhikunch
 - 👀 I’m interested in federated learning and wireless AI.
 - 🌱 I’m currently studying in ISST, USTC.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on federated learning and wireless AI researches.
 - 📫 How to reach me : zhikunch@outlook.com
 
 <!---
